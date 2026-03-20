@@ -13,7 +13,10 @@
 </p>
 
 <p align="center">
-  <img src="./preview.gif" alt="Preview do Sistema" width="800"/>
+  <img src="./public/login-private.gif" alt="App Preview" width="800"/>
+</p>
+<p align="center">
+  <img src="./public/login-public.gif" alt="App Preview" width="800"/>
 </p>
 
 <p align="center">
